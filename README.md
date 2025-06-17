@@ -168,3 +168,30 @@ To ensure smooth collaboration and successful delivery of the AirBnB Clone proje
 ---
 
 Each role is essential to the delivery of a scalable, functional, and user-friendly AirBnB Clone. By clearly defining responsibilities, we foster a focused and collaborative environment.
+
+---
+
+# UI Component Patterns
+
+### Planned Components
+
+#### Navbar
+
+- Logo
+- Search bar
+- User navigation (login/profile)
+- Responsive menu for mobile and desktop
+
+#### Property Card
+
+- Property image
+- Basic details (price, location, rating)
+- Favorite button (heart icon)
+- Responsive layout to adapt to different screen sizes
+
+#### Footer
+
+- Site links (About, Contact, Privacy Policy, etc.)
+- Company information
+- Social media links
+- Copyright information
