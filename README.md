@@ -105,7 +105,7 @@ By translating Figma’s styles into actual development tokens, we ensure a fait
 
 ---
 
-## 👥 Project Roles and Responsibilities
+# Project Roles and Responsibilities
 
 To ensure smooth collaboration and successful delivery of the AirBnB Clone project, each team member is assigned a defined role with specific responsibilities. Clear role separation promotes accountability, efficiency, and alignment with project goals.
 
