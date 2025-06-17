@@ -26,7 +26,7 @@ Project is in early development phase. Initial setup and planning completed.
 
 ## 📁 Repository Structure (to be updated as code is added)
 
-## 🎨 UI/UX Design Planning
+# UI/UX Design Planning
 
 A clean and intuitive user interface is critical for the success of any booking platform. The goal is to ensure users can easily browse properties, view detailed information, and complete bookings with minimal friction.
 
@@ -67,7 +67,7 @@ Our UI/UX approach is to prioritize simplicity, clarity, and speed — key facto
 
 ---
 
-### 🎨 Figma Design Properties
+# Figma Design Properties
 
 As part of exploring the Figma environment, we identified consistent design tokens to be applied across the project.
 
