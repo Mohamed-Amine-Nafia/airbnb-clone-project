@@ -102,3 +102,69 @@ Identifying and documenting key design properties from the mockup ensures:
 - 🌐 **Improved UX**: Clear type hierarchy and proper contrast enhance readability and accessibility.
 
 By translating Figma’s styles into actual development tokens, we ensure a faithful implementation of the original design vision.
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+To ensure smooth collaboration and successful delivery of the AirBnB Clone project, each team member is assigned a defined role with specific responsibilities. Clear role separation promotes accountability, efficiency, and alignment with project goals.
+
+### 📌 Project Manager
+
+- Oversees the entire project timeline and scope.
+- Coordinates between teams and ensures deadlines are met.
+- Handles resource planning and risk management.
+- Acts as the main point of communication for stakeholders.
+
+### 💻 Frontend Developers
+
+- Build responsive and user-friendly UI components.
+- Translate Figma designs into HTML, CSS, and JavaScript (or React).
+- Ensure cross-browser compatibility and mobile responsiveness.
+- Collaborate with backend developers to integrate APIs.
+
+### 🗄️ Backend Developers
+
+- Design and develop server-side logic, databases, and APIs.
+- Ensure secure and efficient data handling (authentication, bookings, etc.).
+- Maintain scalability and performance of the server.
+- Collaborate with frontend team to define API endpoints.
+
+### 🎨 Designers (UI/UX)
+
+- Create mockups and prototypes using tools like Figma.
+- Define color schemes, typography, layout, and overall visual identity.
+- Ensure the design prioritizes usability and accessibility.
+- Work closely with frontend developers to maintain design consistency.
+
+### 🧪 QA/Testers
+
+- Write and run test cases to ensure features work as expected.
+- Perform manual and automated testing for bugs, performance, and security.
+- Provide feedback to developers for necessary fixes.
+- Verify new features meet the acceptance criteria.
+
+### ⚙️ DevOps Engineers
+
+- Set up and manage CI/CD pipelines for automated deployment.
+- Handle environment configuration and server deployment.
+- Monitor performance, logging, and error reporting.
+- Ensure system reliability and availability.
+
+### 🧭 Product Owner
+
+- Defines the product vision, goals, and roadmap.
+- Prioritizes features and backlog items based on user needs.
+- Accepts or rejects completed features according to requirements.
+- Acts as a bridge between the team and stakeholders/end-users.
+
+### 🌀 Scrum Master (If Agile is adopted)
+
+- Facilitates agile ceremonies (daily stand-ups, sprint planning, retrospectives).
+- Removes blockers and supports team efficiency.
+- Encourages continuous improvement and team collaboration.
+- Ensures Agile practices are followed throughout the project.
+
+---
+
+Each role is essential to the delivery of a scalable, functional, and user-friendly AirBnB Clone. By clearly defining responsibilities, we foster a focused and collaborative environment.
