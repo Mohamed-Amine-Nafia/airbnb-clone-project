@@ -64,3 +64,41 @@ A user-friendly design:
 - Ensures that users of all skill levels can interact with the platform.
 
 Our UI/UX approach is to prioritize simplicity, clarity, and speed — key factors in a successful and scalable booking platform.
+
+---
+
+### 🎨 Figma Design Properties
+
+As part of exploring the Figma environment, we identified consistent design tokens to be applied across the project.
+
+#### 🎨 Color Styles
+
+| Name             | HEX Code  | Usage                            |
+| ---------------- | --------- | -------------------------------- |
+| Primary Color    | `#FF5A5F` | Main actions (e.g. buttons, CTA) |
+| Secondary Color  | `#008489` | Accents, links, highlights       |
+| Background Color | `#FFFFFF` | Page and section backgrounds     |
+| Primary Text     | `#222222` | Headings and body text           |
+| Secondary Text   | `#717171` | Subheadings, muted text          |
+
+#### ✍️ Typography
+
+| Style          | Font     | Weight       | Size      | Usage                      |
+| -------------- | -------- | ------------ | --------- | -------------------------- |
+| Primary Text   | Circular | Medium (500) | 16px      | Body content               |
+| Headings       | Circular | Bold (700)   | 24px–32px | Titles and section headers |
+| Secondary Text | Circular | Book (400)   | 14px      | Captions, helper text      |
+
+---
+
+### 🧠 Why Identifying Design Properties Matters
+
+Identifying and documenting key design properties from the mockup ensures:
+
+- ✅ **Design Consistency**: Every part of the application reflects a unified visual language.
+- 🔄 **Efficient Development**: Developers reference exact colors and typography — no guesswork.
+- 🧩 **Component Reusability**: Shared tokens can be used across components for maintainable code.
+- 🤝 **Better Collaboration**: Designers and developers speak the same "design system" language.
+- 🌐 **Improved UX**: Clear type hierarchy and proper contrast enhance readability and accessibility.
+
+By translating Figma’s styles into actual development tokens, we ensure a faithful implementation of the original design vision.
